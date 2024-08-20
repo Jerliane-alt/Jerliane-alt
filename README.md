@@ -1,4 +1,13 @@
-## Hi there 👋
+## Olá, bem vindo/a ao meu perfil 💙💙
+
+- Meu nome é Jerliane Anjos
+- Eu estou estudando na alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Ultilizo esse espaço para minha organização
+   e compartilhamentos dos meus projetos desenvolvidos
+
+## Você pode entrar em contato comigo 📫
+00001212622686SP@al.educacao.sp.gov.br
 
 <!--
 **Jerliane-alt/Jerliane-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
